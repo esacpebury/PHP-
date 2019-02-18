@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>菜鸟教程(runoob.com)</title>
+<title>简单登录输出网页(runoob.com)</title>
 <style>
 .error {color: #FF0000;}
 </style>
